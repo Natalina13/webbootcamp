@@ -1,0 +1,18 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.5%;
+	height: 300px;
+	border: 1px solid black;
+	/*border: 1px solid black;*/
+}
+
+p{
+	font-family: Kalam;
+	font-size: 23px;
+	margin-left: 1.66%;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+}
